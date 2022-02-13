@@ -1,1 +1,1 @@
-You will need to enable serial communications in your speeduino
+You will need to enable serial communications in your speeduino, this is meant to be wired to the secondary serial port on the speeduino board, not the one that you connect tuner studio to.
